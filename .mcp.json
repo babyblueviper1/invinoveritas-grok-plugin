@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "invinoveritas": {
+      "type": "http",
+      "url": "https://api.babyblueviper.com/mcp"
+    }
+  }
+}
