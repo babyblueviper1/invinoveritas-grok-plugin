@@ -4,9 +4,9 @@
   "description": "Verify before your agent acts. A neutral pre-action verdict (review) with a portable signed proof, free proof verification (verify_proof) and a public verdict ledger, for Grok Build agents. Gate irreversible actions like posting to X, signing an on-chain transaction, or shipping a change, before they fire.",
   "author": {
     "name": "invinoveritas",
-    "url": "https://api.babyblueviper.com"
+    "url": "https://invinoveritas.dev"
   },
-  "homepage": "https://api.babyblueviper.com",
+  "homepage": "https://invinoveritas.dev",
   "repository": "https://github.com/babyblueviper1/invinoveritas-grok-plugin",
   "license": "MIT",
   "keywords": [
